@@ -1,0 +1,135 @@
+{
+  "sites": [
+    [
+      {
+        "name": "潭州教育",
+        "uuid": "8001efoqg0idzeeb1focu21896izr2",
+        "updatetime": 1597487186510,
+        "id": "81a1a65b-874b-49de-94f7-0860d2c049b6",
+        "children": [
+          {
+            "name": "潭州课堂",
+            "uuid": "8001e6dd1mfqqzf2n4wwluw6hvw62z",
+            "updatetime": 1587440528608,
+            "id": "ffd7d9a5-6a7d-4062-b8f3-213ff6150be5",
+            "target": "https://www.shiguangkey.com/",
+            "type": "web",
+            "bgImage": "https://infinitypro-img.infinitynewtab.com/custom-icon/8001e6dd8audqmvydqa3b8hmssgjgk.png",
+            "bgType": "image",
+            "bgFont": 30,
+            "bgText": "",
+            "bgColor": "#60c0d6"
+          },
+          {
+            "name": "web前端-设计模式",
+            "uuid": "8001ehr7msnj0eqlsldc8j034tln8j",
+            "updatetime": 1599715635955,
+            "id": "cf3ee28d-7e85-479b-9501-00f099f3b3d5",
+            "target": "https://www.shiguangkey.com/video/",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 20,
+            "bgText": "设计模式",
+            "bgColor": "#6c4cb9"
+          },
+          {
+            "name": "web前端框架班教室（阶段3 vue方向）",
+            "uuid": "8001el35ilmc7nqylncehox0y7rhr4",
+            "updatetime": 1603203061452,
+            "id": "33bed8cb-2957-41f8-a0c6-d1278ab40a27",
+            "target": "https://www.shiguangkey.com/video/",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 34,
+            "bgText": "vue",
+            "bgColor": "#6c4cb9"
+          },
+          {
+            "name": "万章JS",
+            "uuid": "8001e6ddqh7c4s6jsz10dt9hh474nb",
+            "updatetime": 1596098439059,
+            "id": "16b97777-5293-4da7-9d8b-5a43729698ae",
+            "target": "https://www.shiguangkey.com/video/1346?videoId=104413&classId=6509&playback=1",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 34,
+            "bgText": "万章",
+            "bgColor": "#6c4cb9"
+          },
+          {
+            "name": "追梦小程序",
+            "uuid": "8001ejgtssvu47gmzg6hixwrmn523o",
+            "updatetime": 1601517286398,
+            "id": "8943ca3b-bf3d-455a-99be-7a8e0dd0a997",
+            "target": "https://www.shiguangkey.com/video/14291",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 23,
+            "bgText": "weApp",
+            "bgColor": "#6c4cb9"
+          },
+          {
+            "name": "web前端框架班教室（阶段3 vue方向）",
+            "uuid": "8001emjsosgh9zmxiqewxa4jhiwqgr",
+            "updatetime": 1604837995025,
+            "id": "1b79feea-9d8a-4842-8837-b19ee2c8e5ce",
+            "target": "https://www.shiguangkey.com/video/playback=1",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 34,
+            "bgText": "React",
+            "bgColor": "#6c4cb9"
+          },
+          {
+            "name": "three.js录播课程",
+            "uuid": "8001ehuearlr4vd2pdjm9o8i9zqo39",
+            "updatetime": 1600678388080,
+            "id": "ed729718-86f1-4570-8716-d61fc40ae22d",
+            "target": "https://www.shiguangkey.com/video/",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 24,
+            "bgText": "three.js",
+            "bgColor": "#6c4cb9"
+          },
+          {
+            "name": "vue课件",
+            "uuid": "8001e8bscs4i8x4kicax13covhiyc5",
+            "updatetime": 1597487233990,
+            "id": "b1765d72-9395-41d1-be04-5aa8f9acc256",
+            "target": "https://pan.baidu.com/s/=%2F",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 18,
+            "bgText": "vu",
+            "bgColor": "#73b364"
+          },
+          {
+            "name": "React课件",
+            "uuid": "8001efoqi9jshpqxjmghhhxca0yp3l",
+            "updatetime": 1597616785525,
+            "id": "b5df0e19-0f20-4acc-968f-313f0d6f3996",
+            "target": "https://pan.baidu.com/s/path=%2F",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 34,
+            "bgText": "课件",
+            "bgColor": "#73b364"
+          },
+          {
+            "name": "Typescript",
+            "uuid": "8001f2qsu8amy2c3ocvd4acdqgp2rj",
+            "updatetime": 1617957953878,
+            "id": "8fb1836c-a8d1-4c32-a5ac-3e046877b3df",
+            "target": "https://www.shiguangkey.com/",
+            "type": "web",
+            "bgType": "color",
+            "bgFont": 34,
+            "bgText": "TS",
+            "bgColor": "transparent"
+          }
+        ]
+      }
+    ]
+  ]
+}
